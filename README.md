@@ -9,7 +9,7 @@ These examples were primarily created to demonstrate the use of [jscodeshift](ht
 ## Getting Started
 
 ```bash
-git clone https://github.com/lund0n/jscodeshift-midwestjs
+git clone https://github.com/lund0n/jscodeshift-utahjs
 cd jscodeshift-utahjs
 npm install
 npm test
