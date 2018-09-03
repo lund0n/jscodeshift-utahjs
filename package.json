@@ -1,12 +1,12 @@
 {
-  "name": "jscodeshift-midwestjs",
+  "name": "jscodeshift-utahjs",
   "version": "1.0.0",
   "description": "Sample jscodeshift mods",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lund0n/jscodeshift-midwestjs.git"
+    "url": "https://github.com/lund0n/jscodeshift-utahjs.git"
   },
-  "homepage": "https://github.com/lund0n/jscodeshift-midwestjs#readme",
+  "homepage": "https://github.com/lund0n/jscodeshift-utahjs#readme",
   "scripts": {
     "test": "jest"
   },
